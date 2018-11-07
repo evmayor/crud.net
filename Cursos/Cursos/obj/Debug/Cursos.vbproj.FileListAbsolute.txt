@@ -1,0 +1,17 @@
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Cursos.exe.config
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Cursos.exe
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Cursos.pdb
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Cursos.xml
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Dominio.Core.Entidades.dll
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Infraestructura.Data.SqlServer.dll
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Dominio.Core.Entidades.pdb
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Dominio.Core.Entidades.xml
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Infraestructura.Data.SqlServer.pdb
+D:\VB\Demo\Cursos\Cursos\bin\Debug\Infraestructura.Data.SqlServer.xml
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.vbprojResolveAssemblyReference.cache
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.Form1.resources
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.Resources.resources
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.vbproj.GenerateResource.Cache
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.exe
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.xml
+D:\VB\Demo\Cursos\Cursos\obj\Debug\Cursos.pdb

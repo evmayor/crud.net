@@ -1,0 +1,12 @@
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Infraestructura.Data.SqlServer.dll
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Infraestructura.Data.SqlServer.pdb
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Infraestructura.Data.SqlServer.xml
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Dominio.Core.Entidades.dll
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Dominio.Core.Entidades.pdb
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\bin\Debug\Dominio.Core.Entidades.xml
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.vbprojResolveAssemblyReference.cache
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.Resources.resources
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.vbproj.GenerateResource.Cache
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.dll
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.xml
+D:\VB\Demo\Cursos\Infraestructura.Data.SqlServer\obj\Debug\Infraestructura.Data.SqlServer.pdb

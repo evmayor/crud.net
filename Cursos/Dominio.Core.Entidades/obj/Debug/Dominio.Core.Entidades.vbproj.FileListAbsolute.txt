@@ -1,0 +1,8 @@
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\bin\Debug\Dominio.Core.Entidades.dll
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\bin\Debug\Dominio.Core.Entidades.pdb
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\bin\Debug\Dominio.Core.Entidades.xml
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\obj\Debug\Dominio.Core.Entidades.Resources.resources
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\obj\Debug\Dominio.Core.Entidades.vbproj.GenerateResource.Cache
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\obj\Debug\Dominio.Core.Entidades.dll
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\obj\Debug\Dominio.Core.Entidades.xml
+D:\VB\Demo\Cursos\Dominio.Core.Entidades\obj\Debug\Dominio.Core.Entidades.pdb
